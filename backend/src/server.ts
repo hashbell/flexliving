@@ -18,7 +18,8 @@ app.use(cors({
   origin: [
     'http://localhost:3000',
     'https://*.vercel.app',
-    'https://*.railway.app'
+    'https://*.railway.app',
+    'https://*.onrender.com'
   ],
   credentials: true
 }));
