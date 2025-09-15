@@ -22,15 +22,30 @@ export class LoggerService {
       ]
     });
 
-    // Add file transport in production
-    if (process.env.NODE_ENV === 'production') {
-      this.logger.add(new winston.transports.File({
-        filename: 'logs/error.log',
-        level: 'error'
-      }));
-      this.logger.add(new winston.transports.File({
-        filename: 'logs/combined.log'
-      }));
+    // Only add file transport in non-serverless environments
+    // Vercel and other serverless platforms don't support file writing
+    if (process.env.NODE_ENV === 'production' && !process.env.VERCEL) {
+      try {
+        const fs = require('fs');
+        const path = require('path');
+        
+        // Ensure logs directory exists
+        const logsDir = path.join(process.cwd(), 'logs');
+        if (!fs.existsSync(logsDir)) {
+          fs.mkdirSync(logsDir, { recursive: true });
+        }
+        
+        this.logger.add(new winston.transports.File({
+          filename: path.join(logsDir, 'error.log'),
+          level: 'error'
+        }));
+        this.logger.add(new winston.transports.File({
+          filename: path.join(logsDir, 'combined.log')
+        }));
+      } catch (error) {
+        // If we can't create logs directory, just log to console
+        console.warn('Could not create logs directory, using console logging only:', error);
+      }
     }
   }
 
