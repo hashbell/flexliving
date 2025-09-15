@@ -19,7 +19,6 @@ const Dashboard: React.FC = () => {
     minRating: undefined as number | undefined,
     maxRating: undefined as number | undefined,
     channel: '',
-    propertyName: '',
     dateFrom: '',
     dateTo: '',
     status: ''

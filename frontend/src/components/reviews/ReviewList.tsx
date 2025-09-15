@@ -31,6 +31,8 @@ const ReviewList: React.FC<ReviewListProps> = ({ reviews, onApprovalChange }) =>
       case 'airbnb': return 'bg-pink-100 text-pink-800';
       case 'booking.com': return 'bg-blue-100 text-blue-800';
       case 'vrbo': return 'bg-purple-100 text-purple-800';
+      case 'expedia': return 'bg-red-100 text-red-800';
+      case 'direct': return 'bg-orange-100 text-orange-800';
       default: return 'bg-gray-100 text-gray-800';
     }
   };

@@ -5,7 +5,6 @@ interface ReviewFiltersProps {
     minRating: number | undefined;
     maxRating: number | undefined;
     channel: string;
-    propertyName: string;
     dateFrom: string;
     dateTo: string;
     status: string;
@@ -26,7 +25,6 @@ const ReviewFilters: React.FC<ReviewFiltersProps> = ({ filters, onFilterChange }
       minRating: undefined,
       maxRating: undefined,
       channel: '',
-      propertyName: '',
       dateFrom: '',
       dateTo: '',
       status: ''
@@ -97,22 +95,9 @@ const ReviewFilters: React.FC<ReviewFiltersProps> = ({ filters, onFilterChange }
             <option value="Airbnb">Airbnb</option>
             <option value="Booking.com">Booking.com</option>
             <option value="VRBO">VRBO</option>
-            <option value="Unknown">Unknown</option>
+            <option value="Direct">Direct</option>
+            <option value="Expedia">Expedia</option>
           </select>
-        </div>
-
-        {/* Property Name */}
-        <div>
-          <label className="block text-sm font-medium text-gray-700 mb-2">
-            Property Name
-          </label>
-          <input
-            type="text"
-            placeholder="Search properties..."
-            value={filters.propertyName}
-            onChange={(e) => handleInputChange('propertyName', e.target.value)}
-            className="block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm"
-          />
         </div>
 
         {/* Date Range */}
