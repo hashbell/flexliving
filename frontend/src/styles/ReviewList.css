@@ -1,0 +1,45 @@
+/* ReviewList Component Styles */
+
+.reviews-scroll-container {
+  max-height: 600px;
+  overflow-y: auto;
+  padding-right: 8px;
+}
+
+/* Custom scrollbar styling */
+.reviews-scroll-container::-webkit-scrollbar {
+  width: 8px;
+}
+
+.reviews-scroll-container::-webkit-scrollbar-track {
+  background: #f1f5f9;
+  border-radius: 4px;
+}
+
+.reviews-scroll-container::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+
+.reviews-scroll-container::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Responsive max-height */
+@media (max-width: 1024px) {
+  .reviews-scroll-container {
+    max-height: 500px;
+  }
+}
+
+@media (max-width: 768px) {
+  .reviews-scroll-container {
+    max-height: 400px;
+  }
+}
+
+@media (max-width: 480px) {
+  .reviews-scroll-container {
+    max-height: 300px;
+  }
+}
