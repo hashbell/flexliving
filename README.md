@@ -35,6 +35,7 @@ A comprehensive review management system for Flex Living properties, featuring a
    ```bash
    cd frontend
    npm install
+   npm run build
    npm start
    ```
    Frontend runs on `http://localhost:3000`
