@@ -61,7 +61,6 @@ app.use('*', (req, res) => {
     code: 'NOT_FOUND'
   });
 });
-
 // Export for Vercel
 export default app;
 
@@ -69,7 +68,7 @@ export default app;
 if (!process.env.VERCEL) {
   const port = configurationService.getPort();
   app.listen(port, () => {
-    logger.info(`Server running on port ${port}`, 'Server');
+    logger.info(`Server is running on port ${port}`, 'Server');
     logger.info(`Environment: ${configurationService.getNodeEnv()}`, 'Server');
     logger.info('Flex Living Reviews API is ready!', 'Server');
   });
