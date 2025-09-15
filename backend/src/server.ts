@@ -17,9 +17,7 @@ app.use(morgan('combined'));
 app.use(cors({
   origin: [
     'http://localhost:3000',
-    'https://*.vercel.app',
-    'https://*.railway.app',
-    'https://*.onrender.com'
+    'https://flexliving-1.onrender.com',
   ],
   credentials: true
 }));
