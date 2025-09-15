@@ -14,13 +14,28 @@ const { configurationService, logger } = createServices();
 app.use(morgan('combined'));
 
 // Middleware
-app.use(cors());
+app.use(cors({
+  origin: [
+    'http://localhost:3000',
+    'https://*.vercel.app',
+    'https://*.railway.app'
+  ],
+  credentials: true
+}));
 app.use(express.json());
 
 // Routes
 app.use('/api/reviews', reviewsRouter);
 
 app.get('/health', (req, res) => {
+  res.status(StatusCodes.OK).json({ 
+    status: 'healthy', 
+    timestamp: new Date().toISOString(),
+    service: 'Flex Living Reviews API'
+  });
+});
+
+app.get('/api/health', (req, res) => {
   res.status(StatusCodes.OK).json({ 
     status: 'healthy', 
     timestamp: new Date().toISOString(),
@@ -48,11 +63,15 @@ app.use('*', (req, res) => {
   });
 });
 
-const port = configurationService.getPort();
+// Export for Vercel
+export default app;
 
-app.listen(port, () => {
-  logger.info(`Server running on port ${port}`, 'Server');
-  logger.info(`Environment: ${configurationService.getNodeEnv()}`, 'Server');
-  logger.info('Flex Living Reviews API is ready!', 'Server');
-});
-
+// For non-serverless environments
+if (!process.env.VERCEL) {
+  const port = configurationService.getPort();
+  app.listen(port, () => {
+    logger.info(`Server running on port ${port}`, 'Server');
+    logger.info(`Environment: ${configurationService.getNodeEnv()}`, 'Server');
+    logger.info('Flex Living Reviews API is ready!', 'Server');
+  });
+}
