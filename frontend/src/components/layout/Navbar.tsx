@@ -37,12 +37,6 @@ const Navbar: React.FC<NavbarProps> = ({ variant = 'dashboard', propertyId }) =>
                   >
                     Dashboard
                   </button>
-                  <button
-                    onClick={() => navigate('/property/128652')}
-                    className="px-3 py-2 rounded-md text-sm font-medium text-gray-600 hover:text-gray-900 hover:bg-gray-100 transition-colors"
-                  >
-                    View Public Site
-                  </button>
                 </>
               ) : (
                 <>
@@ -72,12 +66,6 @@ const Navbar: React.FC<NavbarProps> = ({ variant = 'dashboard', propertyId }) =>
                 <div className="text-sm text-gray-500">
                   Last updated: {new Date().toLocaleString()}
                 </div>
-                <button
-                  onClick={() => navigate('/property/128652')}
-                  className="bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700 transition-colors text-sm font-medium"
-                >
-                  View Public Site
-                </button>
               </>
             ) : (
               <>
