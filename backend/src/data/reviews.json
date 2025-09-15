@@ -1,0 +1,1582 @@
+{
+  "reviews": [
+    {
+      "id": 7453,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 2,
+      "publicReview": "Not what we expected. The apartment was dirty and had several broken items.",
+      "reviewCategory": [
+        {
+          "category": "amenities",
+          "rating": 1
+        },
+        {
+          "category": "check_in",
+          "rating": 1
+        },
+        {
+          "category": "location",
+          "rating": 2
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 2
+        },
+        {
+          "category": "value",
+          "rating": 3
+        },
+        {
+          "category": "communication",
+          "rating": 3
+        }
+      ],
+      "submittedAt": "2022-11-18 16:32:39",
+      "guestName": "Sarah Johnson",
+      "listingName": "3B N3 C - 12 Notting Hill",
+      "channel": "VRBO"
+    },
+    {
+      "id": 7454,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Exceptional experience! The apartment was perfect and the host was incredibly helpful.",
+      "reviewCategory": [
+        {
+          "category": "amenities",
+          "rating": 4
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 5
+        },
+        {
+          "category": "check_in",
+          "rating": 4
+        }
+      ],
+      "submittedAt": "2024-12-26 12:19:37",
+      "guestName": "Michael Chen",
+      "listingName": "2B N4 D - 78 Hackney",
+      "channel": "VRBO"
+    },
+    {
+      "id": 7455,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Perfect stay! The apartment was immaculate and the host was very responsive.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 4
+        },
+        {
+          "category": "amenities",
+          "rating": 5
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 5
+        }
+      ],
+      "submittedAt": "2024-05-11 15:25:33",
+      "guestName": "Emma Wilson",
+      "listingName": "2B N1 A - 29 Shoreditch",
+      "channel": "VRBO"
+    },
+    {
+      "id": 7456,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 3,
+      "publicReview": "Average stay. The apartment was clean but could be better.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 4
+        },
+        {
+          "category": "cleanliness",
+          "rating": 4
+        },
+        {
+          "category": "amenities",
+          "rating": 4
+        },
+        {
+          "category": "check_in",
+          "rating": 2
+        }
+      ],
+      "submittedAt": "2024-07-17 20:35:41",
+      "guestName": "David Rodriguez",
+      "listingName": "3B N3 C - 12 Notting Hill",
+      "channel": "VRBO"
+    },
+    {
+      "id": 7457,
+      "type": "guest-to-host",
+      "status": "pending",
+      "rating": 2,
+      "publicReview": "Disappointing experience. The apartment was not clean and had maintenance issues.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 3
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 3
+        },
+        {
+          "category": "cleanliness",
+          "rating": 3
+        },
+        {
+          "category": "amenities",
+          "rating": 3
+        },
+        {
+          "category": "location",
+          "rating": 1
+        },
+        {
+          "category": "value",
+          "rating": 3
+        }
+      ],
+      "submittedAt": "2025-03-07 01:23:48",
+      "guestName": "Lisa Thompson",
+      "listingName": "1B N5 E - 23 Islington",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 7458,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Nice apartment with good amenities. The location was convenient.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 5
+        },
+        {
+          "category": "value",
+          "rating": 4
+        },
+        {
+          "category": "check_in",
+          "rating": 5
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 3
+        },
+        {
+          "category": "cleanliness",
+          "rating": 4
+        }
+      ],
+      "submittedAt": "2025-05-09 00:55:27",
+      "guestName": "James Brown",
+      "listingName": "1B N5 E - 23 Islington",
+      "channel": "Expedia"
+    },
+    {
+      "id": 7459,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Great location and comfortable apartment. Would definitely stay again.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 4
+        },
+        {
+          "category": "value",
+          "rating": 3
+        },
+        {
+          "category": "check_in",
+          "rating": 3
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 3
+        },
+        {
+          "category": "cleanliness",
+          "rating": 4
+        }
+      ],
+      "submittedAt": "2025-04-25 18:45:57",
+      "guestName": "Anna Kowalski",
+      "listingName": "1B N2 B - 45 Camden",
+      "channel": "VRBO"
+    },
+    {
+      "id": 7460,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Amazing experience! The host was incredibly helpful and the apartment was perfect.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 5
+        },
+        {
+          "category": "value",
+          "rating": 5
+        },
+        {
+          "category": "check_in",
+          "rating": 5
+        }
+      ],
+      "submittedAt": "2023-02-26 16:24:48",
+      "guestName": "Sophie Williams",
+      "listingName": "3B N3 C - 12 Notting Hill",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 7461,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Amazing experience! The host was incredibly helpful and the apartment was perfect.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 4
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 5
+        },
+        {
+          "category": "amenities",
+          "rating": 4
+        },
+        {
+          "category": "location",
+          "rating": 5
+        },
+        {
+          "category": "communication",
+          "rating": 5
+        }
+      ],
+      "submittedAt": "2025-08-12 22:40:37",
+      "guestName": "Tom Anderson",
+      "listingName": "1B N2 B - 45 Camden",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 7462,
+      "type": "guest-to-host",
+      "status": "pending",
+      "rating": 4,
+      "publicReview": "Great apartment with excellent amenities. The host was very responsive.",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 5
+        },
+        {
+          "category": "communication",
+          "rating": 3
+        },
+        {
+          "category": "value",
+          "rating": 3
+        },
+        {
+          "category": "location",
+          "rating": 3
+        },
+        {
+          "category": "cleanliness",
+          "rating": 3
+        }
+      ],
+      "submittedAt": "2022-03-09 03:18:55",
+      "guestName": "Maria Garcia",
+      "listingName": "2B N4 D - 78 Hackney",
+      "channel": "Expedia"
+    },
+    {
+      "id": 7463,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Great apartment with excellent amenities. The host was very responsive.",
+      "reviewCategory": [
+        {
+          "category": "amenities",
+          "rating": 4
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 4
+        },
+        {
+          "category": "communication",
+          "rating": 3
+        },
+        {
+          "category": "value",
+          "rating": 5
+        },
+        {
+          "category": "check_in",
+          "rating": 3
+        }
+      ],
+      "submittedAt": "2023-07-15 06:41:08",
+      "guestName": "Alex Thompson",
+      "listingName": "2B N1 A - 29 Shoreditch",
+      "channel": "Expedia"
+    },
+    {
+      "id": 7464,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Amazing experience! The host was incredibly helpful and the apartment was perfect.",
+      "reviewCategory": [
+        {
+          "category": "amenities",
+          "rating": 5
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 5
+        },
+        {
+          "category": "cleanliness",
+          "rating": 4
+        },
+        {
+          "category": "communication",
+          "rating": 5
+        },
+        {
+          "category": "value",
+          "rating": 5
+        }
+      ],
+      "submittedAt": "2023-08-02 19:04:54",
+      "guestName": "Jennifer Lee",
+      "listingName": "1B N5 E - 23 Islington",
+      "channel": "Booking.com"
+    },
+    {
+      "id": 7465,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Good value for money. The apartment was comfortable and well-located.",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 5
+        },
+        {
+          "category": "cleanliness",
+          "rating": 3
+        },
+        {
+          "category": "amenities",
+          "rating": 4
+        }
+      ],
+      "submittedAt": "2024-07-05 00:31:15",
+      "guestName": "Robert Smith",
+      "listingName": "2B N4 D - 78 Hackney",
+      "channel": "Booking.com"
+    },
+    {
+      "id": 7466,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 3,
+      "publicReview": "Average stay. The apartment was clean but could use updates.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 4
+        },
+        {
+          "category": "amenities",
+          "rating": 2
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 4
+        },
+        {
+          "category": "value",
+          "rating": 3
+        },
+        {
+          "category": "check_in",
+          "rating": 2
+        }
+      ],
+      "submittedAt": "2024-10-01 14:45:25",
+      "guestName": "Helen Davis",
+      "listingName": "3B N3 C - 12 Notting Hill",
+      "channel": "Booking.com"
+    },
+    {
+      "id": 7467,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Perfect stay! The apartment was immaculate and the host was very responsive.",
+      "reviewCategory": [
+        {
+          "category": "location",
+          "rating": 5
+        },
+        {
+          "category": "cleanliness",
+          "rating": 5
+        },
+        {
+          "category": "value",
+          "rating": 5
+        },
+        {
+          "category": "communication",
+          "rating": 5
+        }
+      ],
+      "submittedAt": "2024-08-18 09:32:30",
+      "guestName": "Mark Johnson",
+      "listingName": "2B N4 D - 78 Hackney",
+      "channel": "Booking.com"
+    },
+    {
+      "id": 7468,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Good value for money. The apartment was comfortable and well-located.",
+      "reviewCategory": [
+        {
+          "category": "amenities",
+          "rating": 5
+        },
+        {
+          "category": "location",
+          "rating": 5
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 5
+        },
+        {
+          "category": "communication",
+          "rating": 3
+        }
+      ],
+      "submittedAt": "2022-01-25 18:23:36",
+      "guestName": "Sarah Miller",
+      "listingName": "2B N4 D - 78 Hackney",
+      "channel": "VRBO"
+    },
+    {
+      "id": 7469,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Absolutely fantastic! The apartment exceeded all our expectations.",
+      "reviewCategory": [
+        {
+          "category": "check_in",
+          "rating": 4
+        },
+        {
+          "category": "cleanliness",
+          "rating": 5
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 5
+        },
+        {
+          "category": "communication",
+          "rating": 5
+        },
+        {
+          "category": "location",
+          "rating": 4
+        },
+        {
+          "category": "amenities",
+          "rating": 5
+        }
+      ],
+      "submittedAt": "2024-11-15 19:07:58",
+      "guestName": "Daniel Wilson",
+      "listingName": "1B N5 E - 23 Islington",
+      "channel": "Direct"
+    },
+    {
+      "id": 7470,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Lovely apartment with great views. The kitchen was well-equipped.",
+      "reviewCategory": [
+        {
+          "category": "amenities",
+          "rating": 5
+        },
+        {
+          "category": "communication",
+          "rating": 4
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 4
+        }
+      ],
+      "submittedAt": "2023-09-03 19:34:45",
+      "guestName": "Emma Taylor",
+      "listingName": "3B N3 C - 12 Notting Hill",
+      "channel": "Direct"
+    },
+    {
+      "id": 7471,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Lovely apartment with great views. The kitchen was well-equipped.",
+      "reviewCategory": [
+        {
+          "category": "check_in",
+          "rating": 5
+        },
+        {
+          "category": "location",
+          "rating": 5
+        },
+        {
+          "category": "communication",
+          "rating": 3
+        },
+        {
+          "category": "value",
+          "rating": 4
+        },
+        {
+          "category": "cleanliness",
+          "rating": 3
+        },
+        {
+          "category": "amenities",
+          "rating": 4
+        }
+      ],
+      "submittedAt": "2024-09-20 22:48:41",
+      "guestName": "Chris Brown",
+      "listingName": "2B N4 D - 78 Hackney",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 7472,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 2,
+      "publicReview": "The apartment was not as described. Several issues with cleanliness and maintenance.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 2
+        },
+        {
+          "category": "value",
+          "rating": 3
+        },
+        {
+          "category": "amenities",
+          "rating": 3
+        },
+        {
+          "category": "check_in",
+          "rating": 2
+        },
+        {
+          "category": "cleanliness",
+          "rating": 2
+        },
+        {
+          "category": "location",
+          "rating": 3
+        }
+      ],
+      "submittedAt": "2023-04-19 15:26:13",
+      "guestName": "Lisa Anderson",
+      "listingName": "2B N1 A - 29 Shoreditch",
+      "channel": "VRBO"
+    },
+    {
+      "id": 7473,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Exceptional experience! The apartment was perfect and the host was incredibly helpful.",
+      "reviewCategory": [
+        {
+          "category": "amenities",
+          "rating": 4
+        },
+        {
+          "category": "value",
+          "rating": 4
+        },
+        {
+          "category": "location",
+          "rating": 5
+        },
+        {
+          "category": "communication",
+          "rating": 5
+        },
+        {
+          "category": "cleanliness",
+          "rating": 4
+        },
+        {
+          "category": "check_in",
+          "rating": 5
+        }
+      ],
+      "submittedAt": "2024-04-01 12:56:59",
+      "guestName": "James Wilson",
+      "listingName": "2B N4 D - 78 Hackney",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 7474,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Lovely apartment with great views. The kitchen was well-equipped.",
+      "reviewCategory": [
+        {
+          "category": "amenities",
+          "rating": 3
+        },
+        {
+          "category": "communication",
+          "rating": 4
+        },
+        {
+          "category": "cleanliness",
+          "rating": 4
+        }
+      ],
+      "submittedAt": "2023-04-09 06:53:02",
+      "guestName": "Rachel Green",
+      "listingName": "3B N3 C - 12 Notting Hill",
+      "channel": "VRBO"
+    },
+    {
+      "id": 7475,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Great location and comfortable apartment. Would definitely stay again.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 5
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 5
+        },
+        {
+          "category": "check_in",
+          "rating": 5
+        },
+        {
+          "category": "value",
+          "rating": 3
+        },
+        {
+          "category": "location",
+          "rating": 5
+        },
+        {
+          "category": "amenities",
+          "rating": 5
+        }
+      ],
+      "submittedAt": "2023-03-09 04:50:29",
+      "guestName": "Michael Davis",
+      "listingName": "1B N5 E - 23 Islington",
+      "channel": "VRBO"
+    },
+    {
+      "id": 7476,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Good value for money. The apartment was comfortable and well-located.",
+      "reviewCategory": [
+        {
+          "category": "check_in",
+          "rating": 3
+        },
+        {
+          "category": "cleanliness",
+          "rating": 3
+        },
+        {
+          "category": "communication",
+          "rating": 5
+        },
+        {
+          "category": "amenities",
+          "rating": 3
+        }
+      ],
+      "submittedAt": "2025-02-24 21:20:39",
+      "guestName": "Sophie Johnson",
+      "listingName": "1B N5 E - 23 Islington",
+      "channel": "Booking.com"
+    },
+    {
+      "id": 7477,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Great location and comfortable apartment. Would definitely stay again.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 3
+        },
+        {
+          "category": "cleanliness",
+          "rating": 5
+        },
+        {
+          "category": "value",
+          "rating": 5
+        }
+      ],
+      "submittedAt": "2024-09-15 00:43:40",
+      "guestName": "Tom Smith",
+      "listingName": "1B N5 E - 23 Islington",
+      "channel": "Expedia"
+    },
+    {
+      "id": 7478,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Perfect stay! The apartment was immaculate and the host was very responsive.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 4
+        },
+        {
+          "category": "location",
+          "rating": 5
+        },
+        {
+          "category": "value",
+          "rating": 5
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 5
+        },
+        {
+          "category": "amenities",
+          "rating": 4
+        },
+        {
+          "category": "communication",
+          "rating": 4
+        }
+      ],
+      "submittedAt": "2025-05-30 01:48:02",
+      "guestName": "Anna Williams",
+      "listingName": "1B N2 B - 45 Camden",
+      "channel": "Expedia"
+    },
+    {
+      "id": 7479,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Amazing experience! The host was incredibly helpful and the apartment was perfect.",
+      "reviewCategory": [
+        {
+          "category": "location",
+          "rating": 4
+        },
+        {
+          "category": "cleanliness",
+          "rating": 5
+        },
+        {
+          "category": "check_in",
+          "rating": 4
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 5
+        },
+        {
+          "category": "value",
+          "rating": 5
+        }
+      ],
+      "submittedAt": "2023-02-21 17:58:22",
+      "guestName": "David Miller",
+      "listingName": "2B N4 D - 78 Hackney",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 7480,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Outstanding! The apartment was beautiful and the host was very accommodating.",
+      "reviewCategory": [
+        {
+          "category": "location",
+          "rating": 5
+        },
+        {
+          "category": "amenities",
+          "rating": 5
+        },
+        {
+          "category": "cleanliness",
+          "rating": 4
+        },
+        {
+          "category": "check_in",
+          "rating": 5
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 4
+        },
+        {
+          "category": "value",
+          "rating": 5
+        }
+      ],
+      "submittedAt": "2024-11-04 20:30:24",
+      "guestName": "Emma Thompson",
+      "listingName": "3B N3 C - 12 Notting Hill",
+      "channel": "Booking.com"
+    },
+    {
+      "id": 7481,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Good value for money. The apartment was comfortable and well-located.",
+      "reviewCategory": [
+        {
+          "category": "check_in",
+          "rating": 5
+        },
+        {
+          "category": "cleanliness",
+          "rating": 4
+        },
+        {
+          "category": "value",
+          "rating": 3
+        },
+        {
+          "category": "amenities",
+          "rating": 3
+        },
+        {
+          "category": "location",
+          "rating": 5
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 4
+        }
+      ],
+      "submittedAt": "2022-10-15 14:11:47",
+      "guestName": "Mark Taylor",
+      "listingName": "2B N4 D - 78 Hackney",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 7482,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Good value for money. The apartment was comfortable and well-located.",
+      "reviewCategory": [
+        {
+          "category": "check_in",
+          "rating": 5
+        },
+        {
+          "category": "cleanliness",
+          "rating": 4
+        },
+        {
+          "category": "value",
+          "rating": 5
+        },
+        {
+          "category": "amenities",
+          "rating": 5
+        },
+        {
+          "category": "communication",
+          "rating": 5
+        }
+      ],
+      "submittedAt": "2023-10-09 16:55:09",
+      "guestName": "Sarah Davis",
+      "listingName": "1B N5 E - 23 Islington",
+      "channel": "Direct"
+    },
+    {
+      "id": 7483,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Nice apartment with good amenities. The location was convenient.",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 5
+        },
+        {
+          "category": "cleanliness",
+          "rating": 3
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 3
+        }
+      ],
+      "submittedAt": "2024-11-16 02:13:07",
+      "guestName": "Chris Wilson",
+      "listingName": "1B N5 E - 23 Islington",
+      "channel": "Expedia"
+    },
+    {
+      "id": 7484,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Lovely apartment with great views. The kitchen was well-equipped.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 3
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 3
+        },
+        {
+          "category": "check_in",
+          "rating": 5
+        }
+      ],
+      "submittedAt": "2023-09-15 16:56:25",
+      "guestName": "Jennifer Anderson",
+      "listingName": "1B N2 B - 45 Camden",
+      "channel": "Direct"
+    },
+    {
+      "id": 7485,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Absolutely fantastic! The apartment exceeded all our expectations.",
+      "reviewCategory": [
+        {
+          "category": "amenities",
+          "rating": 4
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 5
+        },
+        {
+          "category": "communication",
+          "rating": 4
+        },
+        {
+          "category": "value",
+          "rating": 5
+        },
+        {
+          "category": "check_in",
+          "rating": 4
+        }
+      ],
+      "submittedAt": "2023-01-18 23:42:47",
+      "guestName": "Robert Johnson",
+      "listingName": "1B N2 B - 45 Camden",
+      "channel": "Expedia"
+    },
+    {
+      "id": 7486,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Great apartment with excellent amenities. The host was very responsive.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 4
+        },
+        {
+          "category": "amenities",
+          "rating": 4
+        },
+        {
+          "category": "location",
+          "rating": 3
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 3
+        }
+      ],
+      "submittedAt": "2022-10-11 09:23:36",
+      "guestName": "Helen Smith",
+      "listingName": "2B N4 D - 78 Hackney",
+      "channel": "VRBO"
+    },
+    {
+      "id": 7487,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Nice apartment with good amenities. The location was convenient.",
+      "reviewCategory": [
+        {
+          "category": "check_in",
+          "rating": 3
+        },
+        {
+          "category": "amenities",
+          "rating": 3
+        },
+        {
+          "category": "value",
+          "rating": 3
+        },
+        {
+          "category": "cleanliness",
+          "rating": 4
+        }
+      ],
+      "submittedAt": "2023-01-06 18:24:59",
+      "guestName": "Daniel Brown",
+      "listingName": "1B N2 B - 45 Camden",
+      "channel": "Booking.com"
+    },
+    {
+      "id": 7488,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Great location and comfortable apartment. Would definitely stay again.",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 5
+        },
+        {
+          "category": "communication",
+          "rating": 4
+        },
+        {
+          "category": "amenities",
+          "rating": 3
+        }
+      ],
+      "submittedAt": "2025-07-27 02:52:24",
+      "guestName": "Lisa Garcia",
+      "listingName": "2B N1 A - 29 Shoreditch",
+      "channel": "Direct"
+    },
+    {
+      "id": 7489,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 3,
+      "publicReview": "Average stay. The apartment was clean but could use updates.",
+      "reviewCategory": [
+        {
+          "category": "location",
+          "rating": 2
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 3
+        },
+        {
+          "category": "check_in",
+          "rating": 3
+        },
+        {
+          "category": "amenities",
+          "rating": 3
+        },
+        {
+          "category": "communication",
+          "rating": 2
+        },
+        {
+          "category": "value",
+          "rating": 4
+        }
+      ],
+      "submittedAt": "2025-03-01 02:06:52",
+      "guestName": "Tom Davis",
+      "listingName": "2B N4 D - 78 Hackney",
+      "channel": "Expedia"
+    },
+    {
+      "id": 7490,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Exceptional experience! The apartment was perfect and the host was incredibly helpful.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 4
+        },
+        {
+          "category": "value",
+          "rating": 5
+        },
+        {
+          "category": "communication",
+          "rating": 4
+        },
+        {
+          "category": "amenities",
+          "rating": 5
+        },
+        {
+          "category": "check_in",
+          "rating": 5
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 4
+        }
+      ],
+      "submittedAt": "2023-10-13 00:41:54",
+      "guestName": "Sophie Wilson",
+      "listingName": "1B N5 E - 23 Islington",
+      "channel": "Expedia"
+    },
+    {
+      "id": 7491,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Great location and comfortable apartment. Would definitely stay again.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 5
+        },
+        {
+          "category": "value",
+          "rating": 5
+        },
+        {
+          "category": "communication",
+          "rating": 5
+        },
+        {
+          "category": "amenities",
+          "rating": 3
+        },
+        {
+          "category": "location",
+          "rating": 5
+        },
+        {
+          "category": "check_in",
+          "rating": 5
+        }
+      ],
+      "submittedAt": "2025-06-16 08:38:04",
+      "guestName": "Michael Taylor",
+      "listingName": "1B N5 E - 23 Islington",
+      "channel": "VRBO"
+    },
+    {
+      "id": 7492,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Exceptional experience! The apartment was perfect and the host was incredibly helpful.",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 5
+        },
+        {
+          "category": "cleanliness",
+          "rating": 5
+        },
+        {
+          "category": "value",
+          "rating": 4
+        },
+        {
+          "category": "location",
+          "rating": 4
+        },
+        {
+          "category": "communication",
+          "rating": 5
+        },
+        {
+          "category": "amenities",
+          "rating": 4
+        }
+      ],
+      "submittedAt": "2023-12-24 14:42:35",
+      "guestName": "Emma Johnson",
+      "listingName": "2B N4 D - 78 Hackney",
+      "channel": "Direct"
+    },
+    {
+      "id": 7493,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Perfect stay! The apartment was immaculate and the host was very responsive.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 5
+        },
+        {
+          "category": "amenities",
+          "rating": 4
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 5
+        }
+      ],
+      "submittedAt": "2024-05-22 06:25:16",
+      "guestName": "Mark Anderson",
+      "listingName": "3B N3 C - 12 Notting Hill",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 7494,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Lovely apartment with great views. The kitchen was well-equipped.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 5
+        },
+        {
+          "category": "communication",
+          "rating": 5
+        },
+        {
+          "category": "location",
+          "rating": 3
+        },
+        {
+          "category": "amenities",
+          "rating": 4
+        }
+      ],
+      "submittedAt": "2024-01-16 07:26:10",
+      "guestName": "Chris Thompson",
+      "listingName": "3B N3 C - 12 Notting Hill",
+      "channel": "VRBO"
+    },
+    {
+      "id": 7495,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Nice apartment with good amenities. The location was convenient.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 5
+        },
+        {
+          "category": "value",
+          "rating": 5
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 3
+        },
+        {
+          "category": "amenities",
+          "rating": 3
+        },
+        {
+          "category": "check_in",
+          "rating": 3
+        },
+        {
+          "category": "communication",
+          "rating": 4
+        }
+      ],
+      "submittedAt": "2022-06-18 07:31:29",
+      "guestName": "Jennifer Davis",
+      "listingName": "1B N5 E - 23 Islington",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 7496,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 2,
+      "publicReview": "Disappointing experience. The apartment was not clean and had maintenance issues.",
+      "reviewCategory": [
+        {
+          "category": "location",
+          "rating": 2
+        },
+        {
+          "category": "cleanliness",
+          "rating": 2
+        },
+        {
+          "category": "check_in",
+          "rating": 1
+        },
+        {
+          "category": "value",
+          "rating": 2
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 1
+        }
+      ],
+      "submittedAt": "2023-04-04 20:46:52",
+      "guestName": "Robert Wilson",
+      "listingName": "3B N3 C - 12 Notting Hill",
+      "channel": "Direct"
+    },
+    {
+      "id": 7497,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Perfect stay! The apartment was immaculate and the host was very responsive.",
+      "reviewCategory": [
+        {
+          "category": "amenities",
+          "rating": 4
+        },
+        {
+          "category": "location",
+          "rating": 4
+        },
+        {
+          "category": "value",
+          "rating": 4
+        },
+        {
+          "category": "communication",
+          "rating": 4
+        }
+      ],
+      "submittedAt": "2023-07-18 14:46:52",
+      "guestName": "Helen Johnson",
+      "listingName": "2B N1 A - 29 Shoreditch",
+      "channel": "Booking.com"
+    },
+    {
+      "id": 7498,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Lovely apartment with great views. The kitchen was well-equipped.",
+      "reviewCategory": [
+        {
+          "category": "location",
+          "rating": 5
+        },
+        {
+          "category": "cleanliness",
+          "rating": 3
+        },
+        {
+          "category": "amenities",
+          "rating": 3
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 3
+        },
+        {
+          "category": "communication",
+          "rating": 3
+        }
+      ],
+      "submittedAt": "2025-04-18 00:24:49",
+      "guestName": "Daniel Smith",
+      "listingName": "3B N3 C - 12 Notting Hill",
+      "channel": "VRBO"
+    },
+    {
+      "id": 7499,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Great location and comfortable apartment. Would definitely stay again.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 3
+        },
+        {
+          "category": "amenities",
+          "rating": 4
+        },
+        {
+          "category": "check_in",
+          "rating": 3
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 3
+        },
+        {
+          "category": "cleanliness",
+          "rating": 3
+        }
+      ],
+      "submittedAt": "2024-02-04 06:19:32",
+      "guestName": "Lisa Taylor",
+      "listingName": "3B N3 C - 12 Notting Hill",
+      "channel": "Booking.com"
+    },
+    {
+      "id": 7500,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 2,
+      "publicReview": "Disappointing experience. The apartment was not clean and had maintenance issues.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 2
+        },
+        {
+          "category": "amenities",
+          "rating": 3
+        },
+        {
+          "category": "check_in",
+          "rating": 1
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 3
+        }
+      ],
+      "submittedAt": "2025-03-18 09:21:43",
+      "guestName": "Tom Wilson",
+      "listingName": "2B N1 A - 29 Shoreditch",
+      "channel": "Booking.com"
+    },
+    {
+      "id": 7501,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Lovely apartment with great views. The kitchen was well-equipped.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 5
+        },
+        {
+          "category": "amenities",
+          "rating": 4
+        },
+        {
+          "category": "check_in",
+          "rating": 4
+        }
+      ],
+      "submittedAt": "2022-03-18 20:50:40",
+      "guestName": "Emma Anderson",
+      "listingName": "1B N2 B - 45 Camden",
+      "channel": "Direct"
+    },
+    {
+      "id": 7502,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Perfect stay! The apartment was immaculate and the host was very responsive.",
+      "reviewCategory": [
+        {
+          "category": "location",
+          "rating": 5
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 5
+        },
+        {
+          "category": "check_in",
+          "rating": 4
+        },
+        {
+          "category": "value",
+          "rating": 5
+        },
+        {
+          "category": "amenities",
+          "rating": 4
+        }
+      ],
+      "submittedAt": "2023-02-06 16:46:52",
+      "guestName": "Jessica White",
+      "listingName": "3B N3 C - 12 Notting Hill",
+      "channel": "Booking.com"
+    }
+  ]
+}
