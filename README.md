@@ -26,7 +26,8 @@ A comprehensive review management system for Flex Living properties, featuring a
    cd backend
    npm install
    npm run build
-   npm run dev
+   npm test
+   npm start
    ```
    Backend runs on `http://localhost:3001`
 
